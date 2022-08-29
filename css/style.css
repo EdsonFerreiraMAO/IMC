@@ -1,0 +1,14 @@
+body {
+  padding: 30px;
+  font-family: Helvetica, sans-serif;
+  background-color: rgb(72, 199, 104);
+}
+
+#paragraph-result {
+  margin-top: 50px;
+}
+
+input {
+  margin-top: 5px;
+  width: 200px;
+}
